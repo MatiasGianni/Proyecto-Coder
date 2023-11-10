@@ -20,6 +20,15 @@ html{
     margin: 0;
     padding: 0;
   }
+header{
+    background-color: #A62E2E;
+}
+main{
+    background-color: #e66969;
+}
+footer{
+    background-color: #A62E2E;
+}
 
 /*Estilos Header*/
 
