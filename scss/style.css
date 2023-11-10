@@ -1,0 +1,9 @@
+@import url(./base/_reset.scss);
+@import url(./utilidades/_variables.scss);
+@import url(./layout/_nav.scss);
+@import url(./layout/_footer.scss);
+@import url(./views/_home.scss);
+@import url(./views/_comienzos.scss);
+@import url(./views/_musica.scss);
+@import url(./views/_multimedia.scss);
+@import url(./views/_comentarios.scss);/*# sourceMappingURL=style.css.map */
