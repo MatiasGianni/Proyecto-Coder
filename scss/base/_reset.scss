@@ -6,15 +6,17 @@
     padding: 0;
   }
 header{
-    background-color: #A62E2E;
+    background-color: $color-principal;
 }
 main{
-    background-color: #D94E4E;
+    background-color: $color-secundario;
 }
 footer{
-    background-color: #A62E2E;
+    background-color: $color-secundario;
 }
 
 html{
     font-size: 62.5%;/*10px*/
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Barlow:wght@300&family=Montserrat:wght@300&family=Nunito:wght@200;300&family=Poppins:wght@300&family=Roboto:wght@300&family=Rubik:wght@300&family=Space+Mono&family=Tektur&display=swap');

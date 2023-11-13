@@ -1,3 +1,159 @@
+/* Estilos globales*/
+@import url("https://fonts.googleapis.com/css2?family=Alegreya&family=Barlow:wght@300&family=Montserrat:wght@300&family=Nunito:wght@200;300&family=Poppins:wght@300&family=Roboto:wght@300&family=Rubik:wght@300&family=Space+Mono&family=Tektur&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
+header {
+  background-color: #A62E2E;
+}
+
+main {
+  background-color: #D94E4E;
+}
+
+footer {
+  background-color: #D94E4E;
+}
+
+html {
+  font-size: 62.5%; /*10px*/
+}
+
+a {
+  text-decoration: none;
+  color: #2617ad;
+  font-family: "Rubik", sans-serif;
+  font-size: 2%;
+  font-weight: 300;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.logo img {
+  margin: 0;
+  width: 10rem; /* Establece el ancho de la imagen*/
+  height: auto;
+}
+
+.navbar_style {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  background-color: #A62E2E;
+  color: #D9B6A3;
+  text-decoration: none;
+}
+
+.footer_style {
+  padding-top: 2.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  background-color: #A62E2E;
+  color: #D9B6A3;
+  padding-bottom: 2.5rem;
+}
+
+footer img {
+  margin: 0;
+  width: 5rem; /*  Establece el ancho de la imagen*/
+  height: auto;
+}
+
+.redes {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: normal;
+}
+
+.main_style {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2rem;
+  background-color: #D94E4E;
+  color: #D9B6A3;
+  padding-bottom: 2.5rem;
+  padding-top: 2.5rem;
+  justify-content: center;
+}
+
+.main_text {
+  padding-top: 2.5rem;
+}
+
+.img-fluid {
+  padding: 1rem;
+}
+
+.comienzos_text {
+  padding: 1rem;
+}
+
+div p {
+  padding: 1rem;
+}
+
+div h1 {
+  font-size: 3rem;
+}
+
+.tex-musi {
+  padding-top: 2.5rem;
+  padding-bottom: 5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+.cont-canciones {
+  padding-top: 5rem;
+}
+
+.canciones {
+  padding: 2.5rem;
+}
+
+.cont-imagen {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  padding-bottom: 2.5rem;
+  padding-top: 2.5rem;
+}
+
+.imaogen-alt {
+  height: 300rem;
+}
+
+.img-fluid {
+  height: 50rem;
+}
+
+.esp {
+  padding: 1rem;
+  justify-content: center;
+}
+
+.cont-imagen {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  padding-bottom: 2.5rem;
+  padding-top: 2.5rem;
+}
+
+.imaogen-alt {
+  height: 300rem;
+}
+
+.img-fluid {
+  height: 50rem;
+}
+
+.esp {
+  padding: 1rem;
+  justify-content: center;
+}
 
 /*# sourceMappingURL=style.css.map */

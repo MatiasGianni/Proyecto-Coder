@@ -2,15 +2,15 @@
     padding-top: 2.5rem;
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
-    background-color: #A62E2E;
-    color: #D9B6A3;
+    background-color: $color-principal;
+    color: $color-letras;
     padding-bottom: 2.5rem;
 
 }
 
 footer img{
     margin: 0;
-    width: 5rem; /* Establece el ancho de la imagen*/
+    width: 5rem; /*  Establece el ancho de la imagen*/
     height: auto;
 }
 
