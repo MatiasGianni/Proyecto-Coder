@@ -1,16 +1,29 @@
+//Estilos multimedia
 .cont-imagen{
     padding-left: 2.5rem;
     padding-right: 2.5rem;
     padding-bottom: 2.5rem;
     padding-top: 2.5rem;
 }
-.imaogen-alt{
-    height: 300rem
+
+.imagen-multi{
+    max-height: 30rem;
+    max-width: 30rem;
+
 }
-.img-fluid{
-    height: 50rem;
+.con-imagen{
+    padding: 5rem;
 }
 .esp{
     padding: 1rem;
     justify-content: center;
+}
+
+.vide-multi{
+    max-height: 30rem;
+    max-width: 90rem;
+}
+
+.con-video{
+    padding: 2rem;
 }

@@ -22,6 +22,7 @@ html {
   font-size: 62.5%; /*10px*/
 }
 
+/*Estilos Nav*/
 a {
   text-decoration: none;
   color: #2617ad;
@@ -48,13 +49,14 @@ ul {
   text-decoration: none;
 }
 
+/*Estilos footer*/
 .footer_style {
-  padding-top: 2.5rem;
+  padding-top: 4rem;
   font-family: "Montserrat", sans-serif;
-  font-size: 1rem;
+  font-size: 2rem;
   background-color: #A62E2E;
   color: #D9B6A3;
-  padding-bottom: 2.5rem;
+  padding-bottom: 4rem;
 }
 
 footer img {
@@ -101,7 +103,7 @@ div h1 {
 }
 
 .tex-musi {
-  padding-top: 2.5rem;
+  padding-top: 5rem;
   padding-bottom: 5rem;
   padding-left: 1rem;
   padding-right: 1rem;
@@ -113,7 +115,7 @@ div h1 {
 }
 
 .canciones {
-  padding: 2.5rem;
+  padding: 3.5rem;
 }
 
 .cont-imagen {
@@ -123,37 +125,51 @@ div h1 {
   padding-top: 2.5rem;
 }
 
-.imaogen-alt {
-  height: 300rem;
+.imagen-multi {
+  max-height: 30rem;
+  max-width: 30rem;
 }
 
-.img-fluid {
-  height: 50rem;
-}
-
-.esp {
-  padding: 1rem;
-  justify-content: center;
-}
-
-.cont-imagen {
-  padding-left: 2.5rem;
-  padding-right: 2.5rem;
-  padding-bottom: 2.5rem;
-  padding-top: 2.5rem;
-}
-
-.imaogen-alt {
-  height: 300rem;
-}
-
-.img-fluid {
-  height: 50rem;
+.con-imagen {
+  padding: 5rem;
 }
 
 .esp {
   padding: 1rem;
   justify-content: center;
+}
+
+.vide-multi {
+  max-height: 30rem;
+  max-width: 90rem;
+}
+
+.con-video {
+  padding: 2rem;
+}
+
+.bottons {
+  padding: 2rem;
+}
+
+.botton-comentario {
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  border-radius: 15%;
+}
+
+.botton-comentario {
+  background-color: #A62E2E;
+  color: #D9B6A3;
+  border-color: #A62E2E;
+}
+
+.subtitulo {
+  padding: 5rem;
+}
+
+.info {
+  padding: 4rem;
 }
 
 /*# sourceMappingURL=style.css.map */

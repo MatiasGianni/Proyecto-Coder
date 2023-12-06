@@ -1,5 +1,23 @@
+//Estilos comentarios
+.bottons
+{
+    padding: 2rem;
+}
 
-.boton{
+.botton-comentario{
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    border-radius: 15%;
+}
+.botton-comentario{
     background-color: $color-principal;
     color: $color-letras;
+    border-color: $color-principal;
+}
+
+.subtitulo {
+    padding: 5rem;
+}
+.info{
+    padding: 4rem;
 }
